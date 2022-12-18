@@ -6,11 +6,6 @@ cd $LOCALDIR
 systemdir=$1
 
 apps_dir="
-Mipay
-Browser
-MiuiVideo
-Music
-QuickSearchBox
 "
 
 for delete_dir in $apps_dir ;do
